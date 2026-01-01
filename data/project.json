@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "karaculp",
+    "is_private": false,
+    "title": "Memory, Education, and Discrimination: Life For Mexican American Children in 20th Century Austin",
+    "description": "This project uses the oral histories from two brothers, Frank de Leon Jr. and Marcos de Leon, who grew up in Austin, Texas in the mid 20th century. It analyzes the systematic discrimination the Mexican American community faced during this period through the lens of education and community.",
+    "language": "en",
+    "slug": "Memory-Education-and-Discrimination",
+    "creator": "karaculp",
+    "authors": "Kara Culp",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-01-01T18:22:40.973Z",
+    "updated_at": "2026-01-01T18:22:40.973Z"
   }
 }
