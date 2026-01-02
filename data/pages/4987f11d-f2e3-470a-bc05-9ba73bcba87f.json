@@ -1,0 +1,78 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If you are interested in any of the topics discussed by the de Leons in this project, the list below contains books which may be of interest to you. They will contain a short description of their contents."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Strange Career of Bilingual Education in Texas: 1836-1981 by Carlos Kevin Blanton, published in 2004. The book covers the history of bilingual education in Texas beginning during Spanish rule and continuing until the early 1980s. An excellent resource for anyone interested in education policy as it is geared towards language minorities in Texas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "City in a Garden: Environmental Transformations and Racial Justice in Twentieth-Century Austin, Texas, by Andrew M. Busch, published in 2018. The book is an urban history of Austin Texas and contains several chapters on discriminatory housing practices like highway construction in minority-majority neighborhoods."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Color of Law: A Forgotten History of how our Government Segregated America, by Richard Rothstein, published in 2017. Another urban history, the book covers discriminatory housing practices across the United States, where local, state, and federal policy and law created “de facto” segregation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nBrown, Not White: School Integration and the Chicano Movement in Houston by Guadalupe San Miguel Jr., published in 2001. The book covers how the Chicano movement affected education and integration for Mexican Americans in the mid 20th century. Though it takes place in Houston, Texas (a city three hours from Austin) the political events also shaped Austin as both cities were subject to the same state and federal laws."
+        }
+      ]
+    }
+  ],
+  "title": "Additional Readings",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "additional-readings",
+  "created_at": "2026-01-02T19:05:56.571Z",
+  "created_by": "karaculp",
+  "updated_at": "2026-01-02T19:05:56.571Z",
+  "updated_by": "karaculp"
+}
