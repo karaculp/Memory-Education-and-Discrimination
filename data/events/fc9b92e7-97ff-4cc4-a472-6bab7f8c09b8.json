@@ -16,7 +16,48 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Frank de Leon Jr.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Frank De Leon Jr. was a student at Palm School from 1952 to 1958. He is the oldest brother to Marcos and Gerardo de Leon. He later attended University Junior High, graduated from Stephen F. Austin High School, enlisted in the Air Force and attended Texas State University, which he later worked for."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In his oral history, he describes life with his family, his experiences at Palm and other schools, and later adult life."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
         }
       ]
     }
@@ -29,6 +70,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
   "created_at": "2026-01-01T18:27:31.691Z",
   "created_by": "karaculp",
-  "updated_at": "2026-01-02T17:53:59.891Z",
-  "updated_by": "tanyaclement"
+  "updated_at": "2026-01-02T18:48:59.529Z",
+  "updated_by": "karaculp"
 }
