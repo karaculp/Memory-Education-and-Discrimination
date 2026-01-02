@@ -1293,12 +1293,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Description of Classmates"
-        },
-        {
           "category": "Places of Austin",
           "tag": "Salvation Army Youth Center"
+        },
+        {
+          "category": "Palm School",
+          "tag": "Classmates"
         }
       ],
       "uuid": "cf1afe30-b1b6-4d87-9ab1-38808ac78bf8"
