@@ -20,7 +20,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Strange Career of Bilingual Education in Texas: 1836-1981 by Carlos Kevin Blanton, published in 2004. The book covers the history of bilingual education in Texas beginning during Spanish rule and continuing until the early 1980s. An excellent resource for anyone interested in education policy as it is geared towards language minorities in Texas."
+          "text": "Books",
+          "bold": true
         }
       ]
     },
@@ -36,7 +37,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "City in a Garden: Environmental Transformations and Racial Justice in Twentieth-Century Austin, Texas, by Andrew M. Busch, published in 2018. The book is an urban history of Austin Texas and contains several chapters on discriminatory housing practices like highway construction in minority-majority neighborhoods."
+          "text": "The Strange Career of Bilingual Education in Texas: 1836-1981 ",
+          "bold": true
+        },
+        {
+          "text": "by Carlos Kevin Blanton, published in 2004. The book covers the history of bilingual education in Texas beginning during Spanish rule and continuing until the early 1980s. An excellent resource for anyone interested in education policy as it is geared towards language minorities in Texas."
         }
       ]
     },
@@ -52,7 +57,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Color of Law: A Forgotten History of how our Government Segregated America, by Richard Rothstein, published in 2017. Another urban history, the book covers discriminatory housing practices across the United States, where local, state, and federal policy and law created “de facto” segregation."
+          "text": "City in a Garden: Environmental Transformations and Racial Justice in Twentieth-Century Austin, Texas",
+          "bold": true
+        },
+        {
+          "text": ", by Andrew M. Busch, published in 2018. The book is an urban history of Austin Texas and contains several chapters on discriminatory housing practices like highway construction in minority-majority neighborhoods."
         }
       ]
     },
@@ -60,7 +69,140 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nBrown, Not White: School Integration and the Chicano Movement in Houston by Guadalupe San Miguel Jr., published in 2001. The book covers how the Chicano movement affected education and integration for Mexican Americans in the mid 20th century. Though it takes place in Houston, Texas (a city three hours from Austin) the political events also shaped Austin as both cities were subject to the same state and federal laws."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Color of Law: A Forgotten History of how our Government Segregated America",
+          "bold": true
+        },
+        {
+          "text": ", by Richard Rothstein, published in 2017. Another urban history, the book covers discriminatory housing practices across the United States, where local, state, and federal policy and law created “de facto” segregation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Brown, Not White: School Integration and the Chicano Movement in Houston",
+          "bold": true
+        },
+        {
+          "text": " by Guadalupe San Miguel Jr., published in 2001. The book covers how the Chicano movement affected education and integration for Mexican Americans in the mid 20th century. Though it takes place in Houston, Texas (a city three hours from Austin) the political events also shaped Austin as both cities were subject to the same state and federal laws."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Articles",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Historic Neighborhood Schools in the Age of Sprawl: Why Johnny Can’t Walk to School",
+          "bold": true
+        },
+        {
+          "text": ", by Constance E. Beaumont, published in 2000. Article discusses the differences between American schools in the age of walkable communities and how urban sprawl contributed to the lack of ability of students to walk to school or for schools to be the center of communities. "
+        },
+        {
+          "type": "link",
+          "url": "https://eric.ed.gov/?id=ED450557",
+          "children": [
+            {
+              "text": "https://eric.ed.gov/?id=ED450557"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "About: Austin, TX: Primera Iglesia Bautista de Austin",
+          "bold": true
+        },
+        {
+          "text": ", written in Spanish, this page from the Primera Iglesia Bautista church in Austin contains the intuitions entire history, from its founding to the modern day."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Black History: ‘Austin City Plan of 1928’ - Segregation of the City",
+          "bold": true
+        },
+        {
+          "text": ", written by the Pease Park Conservancy and published in 2021. The article analyzes the Austin City Council's city plan they adopted in 1928 to intentionally segregate the city and displace all Black residents to the east side of Austin."
         }
       ]
     }
@@ -73,6 +215,6 @@
   "slug": "additional-readings",
   "created_at": "2026-01-02T19:05:56.571Z",
   "created_by": "karaculp",
-  "updated_at": "2026-01-02T19:05:56.571Z",
+  "updated_at": "2026-01-03T17:55:57.775Z",
   "updated_by": "karaculp"
 }
