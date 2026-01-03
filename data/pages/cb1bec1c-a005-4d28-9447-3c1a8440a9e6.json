@@ -88,6 +88,30 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\n"
         },
         {
@@ -149,11 +173,209 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://archive.org/download/PSDLJFP1/Palm_School_de_Leon_Jr_Frank_Photo_001.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Marcos and Gerardo de Leon with their father, Francisco “Frank” de Leon, circa 1965 in front of their home on 66 Rainey Street in East Austin. Photo courtesy of the Palm School Oral History Project, 2024, Travis County Archives in Austin, Texas. Frank de Leon, Jr. Photo 01."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Palm Park",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Palm Park was located directly behind Palm School. It is currently under construction, but is expected to reopen to the community sometime within the coming years. It was a place where the local Mexican American community could gather and host events.\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://waterloogreenway.org/wp-content/uploads/2019/03/Screen-Shot-2019-03-26-at-4.06.25-PM.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Photo Courtesy of Waterloo Greenway and the Austin History Center, Austin Public Library."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I-35",
+          "bold": true
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
           "bold": true,
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Interstate 35, or I-35, cut right through the Mexican American community in East Austin. Originally East Avenue/Highway 81, it served as the dividing line between the primarily “white” side of Austin in the west and the “Black” and “Hispanic” side of Austin in the east. It was originally significantly easier to cross on foot, and elementary school students from East Austin would traverse it to come to Palm. When it was turned into I-35, it became difficult, and when the interstate was expanded, it became impossible. Construction on I-35 was authorized in 1956 with the Federal Highway Act, and was later completed in 1962. It was expanded in 1973 and ’74 to include the upper decks."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.txdot.gov/content/dam/project-sites/mobility35/images/about/i35-freeway-construction-1960-1.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The original East Avenue circa 1958, when the De Leons were attending Palm. Though still dangerous, it was still possible to cross on foot. Photo taken near Martin Luther King Boulevard looking South. Photo courtesy of the Texas Department of Transportation website MyMobility35 “History of I-35” page."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.txdot.gov/content/dam/project-sites/mobility35/images/about/i35-1973-upper-deck-construction.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Photo shows the construction of the upper decks of the I-35 expansion circa 1973-74. Taken roughly from 6th Street and facing north. Palm school is located on 1st Street, just five streets further south. Photo courtesy of the Texas Department of Transportation website MyMobility35 “History of I-35” page."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -166,6 +388,6 @@
   "slug": "places-of-the-project",
   "created_at": "2026-01-03T00:58:48.246Z",
   "created_by": "karaculp",
-  "updated_at": "2026-01-03T00:58:48.246Z",
+  "updated_at": "2026-01-03T01:12:36.095Z",
   "updated_by": "karaculp"
 }
