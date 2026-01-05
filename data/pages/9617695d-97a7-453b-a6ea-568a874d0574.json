@@ -20,6 +20,39 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/rgz-6811/_RGZ6811.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Marcos de Leon (left) and Frank de Leon Jr. (right). “Portrait of Frank de Leon, Jr. and Marcos de Leon.” Photo courtesy of the Palm School Oral History Project, 2024. Travis County Archives in Austin, Texas, de Leon Jr., Frank."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "This project is based on two oral histories, which gathers historical information by interviewing people who were directly involved with the people, places, or events researchers are analyzing. Oral histories are incredibly valuable, as they give voice to people who may have been “silenced” in history by not being able to create documents from their own perspectives at the time the events took place. They also provide rich personal details which are not often recorded in official documents. Still, they are subject to memory. One interesting thing to note while watching these interviews is how differently Frank and his younger brother Marcos remember some of the same events, such as the Civil Rights Movement, or how much of an effect an event had on one brother and not the other. The tags notate this with clear organization, and are intended to be useful to anyone from a scholar looking to analyze certain parts of Austin or Mexican American’s history, to individuals who seek to learn more about certain places or events."
         }
       ]
@@ -57,6 +90,6 @@
   "slug": "introduction",
   "created_at": "2026-01-03T17:58:13.879Z",
   "created_by": "karaculp",
-  "updated_at": "2026-01-03T17:58:13.879Z",
+  "updated_at": "2026-01-05T23:41:11.900Z",
   "updated_by": "karaculp"
 }
