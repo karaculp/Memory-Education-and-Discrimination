@@ -2309,10 +2309,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Discrimation"
-        },
-        {
           "category": "Discrimination",
           "tag": "Language Erasure"
         },
@@ -2323,6 +2319,10 @@
         {
           "category": "Life of Interviewee",
           "tag": "Education Expectations"
+        },
+        {
+          "category": "Discrimination",
+          "tag": "Discrimination"
         }
       ],
       "uuid": "472be1e5-6e14-4d31-a06d-f931de7d74ac"
