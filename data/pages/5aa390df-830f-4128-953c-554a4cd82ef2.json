@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "There are a number of tags which designate what information is where in the oral history videos. Their titles and tag groups make the information easier to find for individuals that are looking for specific information or content."
+          "text": "There are a number of tags which designate what information is where in the oral history videos. Their titles and tag groups make the information easier to find for individuals that are looking for specific information or content. You can filter for certain information in each of the videos to find what is most related to your research interests, or if you would like, you can watch the entire videos to hear the de Leon's entire stories then use the tags to go back to certain points later."
         }
       ]
     },
@@ -211,7 +211,7 @@
           "bold": true
         },
         {
-          "text": "” is additional context provided by the project creator on things that the interviewee mentions briefly."
+          "text": "” is additional context provided by the project creator on things that the interviewee mentions briefly. For the most part, this includes historical context."
         }
       ]
     },
@@ -232,6 +232,6 @@
   "slug": "guide-to-tags",
   "created_at": "2026-01-02T18:51:33.764Z",
   "created_by": "karaculp",
-  "updated_at": "2026-01-05T23:03:25.264Z",
+  "updated_at": "2026-01-05T23:44:56.159Z",
   "updated_by": "karaculp"
 }
