@@ -1929,16 +1929,20 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Description of Classmates"
-        },
-        {
-          "category": "_uncategorized_",
+          "category": "Life of Interviewee",
           "tag": "Childhood Activities"
         },
         {
-          "category": "_uncategorized_",
+          "category": "Discrimination",
           "tag": "Discrimination"
+        },
+        {
+          "category": "Palm School",
+          "tag": "Classmates"
+        },
+        {
+          "category": "Community and Culture",
+          "tag": "Race and Ethnicity"
         }
       ],
       "uuid": "36556d49-9c8a-40cc-a08e-d0f86a370b1e"
