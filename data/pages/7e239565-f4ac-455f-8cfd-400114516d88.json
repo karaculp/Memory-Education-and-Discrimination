@@ -1,12 +1,21 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-01-01T18:22:41.013Z",
   "created_by": "karaculp",
   "title": "Memory, Education, and Discrimination: Life For Mexican American Children in 20th Century Austin",
-  "updated_at": "2026-01-01T18:22:41.013Z",
+  "updated_at": "2026-01-06T00:03:21.217Z",
   "updated_by": "karaculp",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
