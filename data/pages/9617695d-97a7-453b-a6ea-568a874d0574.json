@@ -4,7 +4,166 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This project analyzes the lives of two brothers, Frank de Leon Jr. and Marcos de Leon, who attended Palm School, University Junior High, And Stephen F. Austin High School in Austin Texas during the 1950s and 60s. The brothers grew up in the heavily Mexican American area of the East Austin Neighborhood. These oral histories document their childhoods and adulthoods, and how they were affected by their educations and the community they grew up in. They describe their home lives with their family, neighborhood, and community. Within their lives, they experienced elements of institutional discrimination, such as their community being displaced by the construction of I-35, not being allowed to speak their Spanish in school, and their neighborhood lacking paved roads and being zoned to include industrial facilities. It also includes personal experiences with discrimination on the part of classmates, community members, and teachers. Still, the brothers also note important moments of connection that came from their schools and community which they cherish to this day."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Table of Contents",
+                  "bold": true,
+                  "underline": true,
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1) "
+                },
+                {
+                  "text": "Introduction",
+                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/introduction/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2) "
+                },
+                {
+                  "text": "Guide to Tags",
+                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/guide-to-tags/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "3) "
+                },
+                {
+                  "text": "Places of the Project",
+                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/places-of-the-project/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "4) "
+                },
+                {
+                  "text": "Frank de Leon Jr. - Oral History",
+                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/events/frank-de-leon-jr-oral-history-2/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "5) "
+                },
+                {
+                  "text": "Marcos de Leon - Oral History",
+                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/events/marcos-de-leon-oral-history/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "6) "
+                },
+                {
+                  "text": "Conclusion",
+                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/conclusion/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "7) "
+                },
+                {
+                  "text": "Additional Readings",
+                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/additional-readings/"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "underline": true,
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Introduction",
+                  "textSize": "heading-two",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project analyzes the lives of two brothers, Frank de Leon Jr. and Marcos de Leon, who attended Palm School, University Junior High, And Stephen F. Austin High School in Austin Texas during the 1950s and 60s. The brothers grew up in the heavily Mexican American area of the East Austin Neighborhood. These oral histories document their childhoods and adulthoods, and how they were affected by their educations and the community they grew up in. They describe their home lives with their family, neighborhood, and community. Within their lives, they experienced elements of institutional discrimination, such as their community being displaced by the construction of I-35, not being allowed to speak their Spanish in school, and their neighborhood lacking paved roads and being zoned to include industrial facilities. It also includes personal experiences with discrimination on the part of classmates, community members, and teachers. Still, the brothers also note important moments of connection that came from their schools and community which they cherish to this day."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -74,14 +233,14 @@
       ]
     }
   ],
-  "title": "Introduction",
+  "title": "Memory, Education, and Discrimination: Life for Mexican Americans in 20th Century Austin – Introduction",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "introduction",
+  "slug": "memory-education-and-discrimination-life-f",
   "created_at": "2026-01-03T17:58:13.879Z",
   "created_by": "karaculp",
-  "updated_at": "2026-01-05T23:42:32.540Z",
+  "updated_at": "2026-04-22T18:42:28.656Z",
   "updated_by": "karaculp"
 }
