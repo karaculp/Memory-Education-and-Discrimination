@@ -57,106 +57,29 @@
             },
             {
               "type": "paragraph",
-              "align": "center",
               "children": [
                 {
-                  "bold": true,
-                  "textSize": "heading-three",
-                  "underline": true,
-                  "text": "Table of Contents"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "align": "center",
-              "children": [
-                {
-                  "text": "1) "
-                },
-                {
-                  "text": "Introduction",
-                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/introduction/"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "2) "
-                },
-                {
-                  "text": "Guide to Tags",
-                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/guide-to-tags/"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "3) "
-                },
-                {
-                  "text": "Places of the Project",
-                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/places-of-the-project/"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "4) "
-                },
-                {
-                  "text": "Frank de Leon Jr. - Oral History",
-                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/events/frank-de-leon-jr-oral-history-2/"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "5) "
-                },
-                {
-                  "text": "Marcos de Leon - Oral History",
-                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/events/marcos-de-leon-oral-history/"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "6) "
-                },
-                {
-                  "text": "Conclusion",
-                  "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/conclusion/"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "7) "
-                },
-                {
-                  "text": "Additional Readings",
+                  "text": "",
                   "link": "https://karaculp.github.io/Memory-Education-and-Discrimination/pages/additional-readings/"
                 }
               ],
               "align": "center"
+            },
+            {
+              "type": "table-of-contents",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -286,6 +209,6 @@
   "slug": "memory-education-and-discrimination-life--2",
   "created_at": "2026-01-03T17:58:13.879Z",
   "created_by": "karaculp",
-  "updated_at": "2026-04-22T19:01:09.910Z",
+  "updated_at": "2026-05-10T17:53:10.254Z",
   "updated_by": "karaculp"
 }
