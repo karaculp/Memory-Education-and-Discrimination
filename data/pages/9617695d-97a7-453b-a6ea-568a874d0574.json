@@ -196,6 +196,45 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "7e8ca174-a1f1-41e7-b0fb-68e6b7285582",
+      "includes": [
+        "media"
+      ],
+      "start": 2810,
+      "end": 2957,
+      "file": "7830c8fd-a018-4566-8ee6-0c2520eb2986",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "\n\n\n"
         }
       ]
@@ -209,6 +248,6 @@
   "slug": "memory-education-and-discrimination-life--2",
   "created_at": "2026-01-03T17:58:13.879Z",
   "created_by": "karaculp",
-  "updated_at": "2026-05-10T18:24:57.884Z",
+  "updated_at": "2026-05-10T18:45:31.760Z",
   "updated_by": "karaculp"
 }
