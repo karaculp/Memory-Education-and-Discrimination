@@ -51,7 +51,7 @@
                   "bold": true,
                   "textSize": "heading-three",
                   "underline": true,
-                  "text": ""
+                  "text": "Table of Contents"
                 }
               ]
             },
@@ -209,6 +209,6 @@
   "slug": "memory-education-and-discrimination-life--2",
   "created_at": "2026-01-03T17:58:13.879Z",
   "created_by": "karaculp",
-  "updated_at": "2026-05-10T17:53:10.254Z",
+  "updated_at": "2026-05-10T18:06:38.345Z",
   "updated_by": "karaculp"
 }
